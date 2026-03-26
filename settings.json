@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Nexus_is_king.aternos.me",
-    "port": 56574,
+    "ip": "AquaSmp-TIrM.aternos.me",
+    "port": 62452,
     "version": "1.21.1"
   },
   "position": {
@@ -37,8 +37,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000,
+    "auto-reconnect-delay": 20,
+    "max-reconnect-delay": 200,
     "periodic-rejoin": {
       "enabled": true,
       "min-interval": 20,
